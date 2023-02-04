@@ -25,3 +25,5 @@ API themoviedb.org​
 Code Splitting (разделение кода)​
 
 Добавь асинхронную загрузку JS-кода для маршрутов приложения используя React.lazy() и <Suspense>.
+
+!!!!!!
