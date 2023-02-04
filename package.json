@@ -1,6 +1,7 @@
 {
   "name": "cra",
   "version": "0.1.0",
+  "homepage": "https://github.com/sava642/React-module3__tasks/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
